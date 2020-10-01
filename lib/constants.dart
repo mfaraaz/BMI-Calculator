@@ -1,0 +1,12 @@
+import 'package:flutter/material.dart';
+const double kBottomButtonHeight=80.0;
+const kActiveCardColor = Color(0xff1d1e33);
+const kInactiveCardColor=Color(0xff111328);
+const kButtonColor = Color(0xffed1555);
+const kInactiveSlider=Color(0xff8d8e98);
+const kTextStyle =TextStyle(fontSize: 18.0,color: Color(0xff8d8e98));
+const kNumberTextStyle=TextStyle(fontSize: 50.0,fontWeight: FontWeight.w900);
+const kResultStyle=TextStyle(fontSize: 40.0,fontWeight: FontWeight.bold);
+const kResultTextStyle=TextStyle(fontSize: 22.0,fontWeight: FontWeight.bold,color: Color(0xff24d876) );
+const kBMIStyle=TextStyle(fontSize: 100.0,fontWeight: FontWeight.w900);
+const kBMITextStyle=TextStyle(fontSize: 18.0);
